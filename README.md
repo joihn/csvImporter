@@ -1,7 +1,7 @@
 # CSV importer
 
 
-Librairy deisgned for the persons working under the supervision of Paul Arthur Dreyfus, ICST4SM lab, EPFL.
+Library deisgned for the persons working under the supervision of Paul-Arthur Dreyfus, ICST4SM lab, EPFL.
 
 you may describe your pathToDataset variable as such:
 *pathToDataset*/Noise_1/1121.csv
